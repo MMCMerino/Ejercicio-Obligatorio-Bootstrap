@@ -1,0 +1,9 @@
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.container mt-3{
+    margin-left: 20px;
+}
